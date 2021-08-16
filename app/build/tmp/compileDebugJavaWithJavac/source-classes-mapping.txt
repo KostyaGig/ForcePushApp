@@ -1,0 +1,6 @@
+com/zinoview/forcepush/BuildConfig.java
+ com.zinoview.forcepush.BuildConfig
+com/zinoview/forcepush/databinding/ActivityMainBinding.java
+ com.zinoview.forcepush.databinding.ActivityMainBinding
+com/zinoview/forcepush/databinding/ActivityLoginBinding.java
+ com.zinoview.forcepush.databinding.ActivityLoginBinding
